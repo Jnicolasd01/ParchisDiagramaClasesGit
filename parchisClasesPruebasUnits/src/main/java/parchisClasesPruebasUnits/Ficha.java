@@ -2,13 +2,7 @@ package parchisClasesPruebasUnits;
 
 public class Ficha {
 
-	private Jugador jugador;
+	private String color;
 	private int casilla;
-	
-	public void mover (int cs) {
-		
-		casilla += cs;
-		
-	}
 	
 }
